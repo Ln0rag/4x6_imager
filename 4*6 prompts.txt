@@ -1,0 +1,339 @@
+CRITICAL IDENTITY PRESERVATION RULE — HIGHEST PRIORITY
+
+THIS IS AN IMAGE EDITING AND RESTORATION TASK, NOT A FACE GENERATION TASK.
+
+Use the provided source image as the only identity reference.
+
+The person in the final image MUST be the exact same person shown in the source image.
+
+DO NOT generate a different person.
+DO NOT regenerate the face.
+DO NOT redraw the face.
+DO NOT replace the face.
+DO NOT reconstruct the identity.
+DO NOT beautify the person.
+DO NOT make the person more attractive.
+DO NOT make the person younger or older.
+DO NOT make the face thinner, wider, longer, shorter, or more symmetrical.
+DO NOT reinterpret facial features.
+DO NOT alter the person's natural appearance.
+
+IDENTITY LOCK — PRESERVE EXACTLY:
+- facial identity
+- facial structure
+- face shape
+- facial proportions
+- forehead
+- eyes
+- eye shape
+- eye position
+- eyebrows
+- eyebrow shape
+- nose
+- nose shape
+- nose proportions
+- mouth
+- lips
+- lip shape
+- cheeks
+- chin
+- jawline
+- ears
+- ear shape
+- hair
+- hairstyle
+- hairline
+- natural skin tone
+- apparent age
+- distinctive facial characteristics
+- clothing
+- collar
+- visible natural features
+
+The final result must be unmistakably recognizable as the SAME PERSON when compared side-by-side with the original.
+
+If a facial detail is unclear because of blur, low resolution, compression, glare, or poor camera quality, preserve the original appearance and do NOT invent a new detail.
+
+SOURCE IMAGE CLEANUP:
+
+The source image may be a low-quality photograph of a person's printed photograph on an identification/photo card.
+
+Remove completely:
+- the physical photo card
+- card borders
+- black borders
+- printed Arabic text
+- printed dates
+- logos
+- symbols
+- fingerprints
+- fingers
+- hands
+- reflections
+- glare caused by the card
+- surrounding objects
+- table/background behind the card
+- any unrelated objects
+
+Keep ONLY the actual portrait of the person.
+
+Do not leave any visible part of the original card.
+
+BACKGROUND:
+
+Replace the entire background with a perfectly uniform pure white background.
+
+Background color:
+#FFFFFF
+RGB 255, 255, 255
+
+The background must be:
+- completely white
+- flat
+- clean
+- seamless
+- uniform
+- without texture
+- without gradients
+- without colored areas
+- without objects
+- without visible background shadows
+
+Do not use gray, blue, cream, beige, off-white, or studio-colored backgrounds.
+
+PHOTO COMPOSITION:
+
+Create a professional Egyptian government/passport-style ID photograph.
+
+Use:
+- vertical portrait orientation
+- 2:3 aspect ratio
+- target physical print size: 4 × 6 cm
+- centered head and shoulders
+- natural head position
+- natural shoulder position
+- proper headroom
+- full head visible
+- full hair visible
+- do not crop the top of the head
+- do not crop the hair unnaturally
+- do not crop the ears unnaturally
+- show the upper shoulders naturally
+- maintain the original person's natural proportions
+
+Correct perspective and straighten the image if the source card was photographed at an angle.
+
+Do not artificially change the person's head angle or facial proportions.
+
+IMAGE RESTORATION AND QUALITY ENHANCEMENT:
+
+The original image may have been captured with a poor-quality camera.
+
+Improve the technical image quality while preserving the original person's identity and facial information.
+
+Correct or reduce:
+- low resolution
+- blur
+- mild motion blur
+- camera noise
+- sensor noise
+- JPEG/compression artifacts
+- color cast
+- poor exposure
+- poor white balance
+- low contrast
+- uneven lighting
+- mild glare
+- perspective distortion
+- softness caused by photographing a printed image
+
+Improve:
+- resolution
+- overall clarity
+- natural sharpness
+- exposure
+- white balance
+- contrast
+- tonal balance
+- fine photographic detail
+
+IMPORTANT:
+This is IMAGE RESTORATION, NOT FACIAL REGENERATION.
+
+Do not create new facial information.
+Do not hallucinate missing facial details.
+Do not replace unclear features with AI-generated features.
+Do not alter facial landmarks.
+
+Only recover and improve information that can reasonably be supported by the original source.
+
+FACE AND SKIN:
+
+Keep realistic natural skin texture.
+
+Allow only technical correction of:
+- camera artifacts
+- noise
+- compression
+- mild blur
+- uneven exposure
+
+DO NOT:
+- use beauty filters
+- apply glamour retouching
+- excessively smooth the skin
+- make the skin plastic
+- make the skin waxy
+- remove natural facial characteristics
+- remove normal facial texture
+- add makeup
+- alter facial contours
+- sharpen facial features unnaturally
+
+The skin should remain realistic and consistent with the source image.
+
+LIGHTING:
+
+Create clean, neutral, professional lighting appropriate for an official ID photograph.
+
+Use natural-looking illumination and neutral color balance.
+
+Do not create dramatic lighting.
+Do not create cinematic lighting.
+Do not create beauty lighting.
+Do not create artificial facial highlights.
+Do not change the apparent facial structure through lighting.
+
+CLOTHING:
+
+Preserve the person's original clothing exactly as much as possible.
+
+Do not change:
+- shirt
+- collar
+- buttons
+- neckline
+- clothing color
+- clothing style
+
+Do not add accessories, jewelry, ties, glasses, hats, or other objects that were not present.
+
+FINAL IMAGE REQUIREMENTS:
+
+The final image must be:
+
+- the exact same person
+- photorealistic
+- high resolution
+- clean
+- natural
+- professional
+- official-document style
+- pure white background
+- 2:3 portrait ratio
+- suitable for 4 × 6 cm printing
+- centered and properly cropped
+- sharp enough for printing
+- free of card borders and printed information
+- free of hands and fingers
+- free of unrelated objects
+
+MOST IMPORTANT RULE:
+
+PRESERVE THE PERSON'S IDENTITY EXACTLY.
+
+When forced to choose between improving image quality and preserving identity, ALWAYS prioritize identity preservation.
+
+Never make the person look like a better, younger, thinner, smoother, or different version of themselves.
+
+The final result should look like a real professionally photographed official ID photograph of the SAME PERSON, not an AI-generated recreation.
+
+NEGATIVE INSTRUCTIONS:
+
+different person, altered identity, face swap, face replacement, face regeneration, face reconstruction, redesigned face, regenerated facial features, beautification, beauty filter, glamour retouching, younger appearance, older appearance, slimmer face, wider face, altered facial proportions, altered eyes, enlarged eyes, altered eyebrows, altered nose, altered lips, altered mouth, altered cheeks, altered chin, altered jawline, altered ears, altered hairline, altered hairstyle, makeup, plastic skin, waxy skin, airbrushed skin, excessive skin smoothing, artificial skin, AI face, synthetic face, cartoon, illustration, CGI, 3D render, unrealistic face, hallucinated facial details, invented facial features, altered clothing, accessories, jewelry, glasses, hat, card visible, card border, printed text, Arabic text, date, logo, fingers, hands, reflections, original background, objects, gray background, blue background, beige background, colored background, gradient background, textured background, dramatic lighting, cinematic lighting, glamour lighting, cropped head, cropped hair, distorted anatomy, unnatural proportions, excessive sharpening, overprocessed image
+
+FINAL OUTPUT:
+
+A realistic, high-resolution, official Egyptian ID/passport-style photograph of the exact same person from the source image, with the identity and facial characteristics preserved exactly, the original card completely removed, a perfectly uniform pure white #FFFFFF background, natural upper-body framing, 2:3 portrait composition, and a final appearance suitable for printing at 4 × 6 cm.
+
+
+FINAL SUBTLE BEAUTIFICATION / POLISHING:
+
+After completing all restoration, identity preservation, background removal, and composition requirements above, apply a VERY SUBTLE and NATURAL professional beautification pass ONLY to improve the overall photographic presentation.
+
+IMPORTANT:
+This beautification step must NEVER modify, regenerate, reconstruct, reinterpret, or replace the person's identity or facial structure.
+
+The beautification must be limited to non-identity-altering photographic polish:
+
+- slightly improve overall facial presentation while preserving the exact original facial structure
+- gently improve skin appearance while KEEPING realistic natural skin texture
+- reduce only distracting temporary-looking photographic imperfections caused by the original camera or printed photo
+- gently even out minor uneven exposure
+- improve natural tonal balance
+- improve white balance
+- improve subtle clarity and sharpness
+- improve image cleanliness
+- reduce minor noise and compression artifacts
+- make the photograph look professionally captured and well processed
+- maintain completely natural skin pores and texture
+- maintain the exact original skin tone
+- maintain the exact original facial contours
+- maintain the exact original face shape
+- maintain the exact original eyes, eyebrows, nose, mouth, lips, cheeks, chin, jawline, ears, hairline, and hairstyle
+- maintain the exact original apparent age
+- maintain the exact original expression
+- maintain the exact original proportions
+- maintain the exact original clothing and collar
+
+DO NOT interpret "beautify" as changing the person.
+
+BEAUTIFY = PROFESSIONAL PHOTOGRAPHIC POLISH ONLY.
+
+The final beautification must NOT:
+- reshape the face
+- slim the face
+- widen the face
+- enlarge the eyes
+- alter eye shape
+- alter eyebrow shape
+- alter nose shape
+- alter nose size
+- alter lips
+- alter mouth shape
+- alter cheeks
+- alter chin
+- alter jawline
+- alter ears
+- alter forehead
+- alter hairline
+- alter hairstyle
+- remove distinctive facial characteristics
+- remove natural facial marks that are part of the person's appearance
+- erase natural facial texture
+- apply a beauty filter
+- apply glamour retouching
+- make the person younger
+- make the person older
+- make the person thinner
+- make the person more muscular
+- make the person more attractive through facial modification
+- add makeup
+- add artificial highlights
+- create artificial symmetry
+- create artificial facial detail
+- hallucinate missing details
+- replace blurry facial information with invented features
+- create a synthetic AI-looking face
+
+The result should look like:
+the SAME PERSON, photographed professionally with a better camera, better lighting, better exposure, cleaner processing, and subtle natural photographic polish.
+
+The beautification must be so restrained that a side-by-side comparison with the source clearly shows the exact same person with the same facial identity and the same natural characteristics.
+
+IDENTITY ALWAYS HAS PRIORITY OVER BEAUTIFICATION.
+
+If any beautification adjustment could potentially change identity, facial structure, facial proportions, or natural appearance, DO NOT APPLY THAT ADJUSTMENT.
+
+FINAL QUALITY TARGET:
+Clean, polished, natural, realistic, professionally photographed, high-resolution official ID portrait — subtly improved and refined, but NEVER transformed into a different or "enhanced" version of the person.
